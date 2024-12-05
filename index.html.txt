@@ -8,7 +8,7 @@
         <p>This is my first web page.</p>
         <p>It contains a 
              <strong>main heading</strong> and <em> paragraph </em>.
-this is yashaar
+this is yashaar type 2
         </p>
     </body>
 </html>
